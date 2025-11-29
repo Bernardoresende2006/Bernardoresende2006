@@ -8,10 +8,9 @@
 
 ###
 
-<p align="left">📚 I'm currently studying Computer Science<br>- 💻 I program in C</p>
+<p align="left">📚 I'm currently studying Computer Science<br>- 💻 I program in C<br>📧Contact: resendebr21@gmail.com</p>
 
-//<div align="center">
-//  <img src="https://streak-stats.demolab.com?user=Bernardoresende2006&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-//</div>
+![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bernardoresende2006&show_icons=true&theme=tokyonight)
+
 
 ###
