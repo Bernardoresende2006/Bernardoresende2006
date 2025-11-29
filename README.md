@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there,;Welcome)](https://git.io/typing-svg)
+###
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Bernardo.;to+my+profile.)](https://git.io/typing-svg)
 ###
 
