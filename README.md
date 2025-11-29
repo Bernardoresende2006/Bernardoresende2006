@@ -14,8 +14,9 @@
 
 ### 🧠 Languages & Skills
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="70" />
 </p>
+
 
 ---
 
