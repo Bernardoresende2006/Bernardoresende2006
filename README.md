@@ -1,5 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there,+I'm+Bernardo.;Welcome+to+my+profile.)](https://git.io/typing-svg)
 ###
+<p align="center">
+  <img src="[./assets/meu-animado.gif](https://i.pinimg.com/originals/db/03/96/db039626bfa2ecc53f0f6e7f335aef4c.gif)" alt="Descrição" width="400" />
+</p>
+
+###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
