@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there,+I'm+Bernardo.;Welcome+to+my+profile.)](https://git.io/typing-svg)
-###
-<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there,+I'm+Bernardo.;Welcome+to+my+profile.)](https://git.io/typing-svg)<p align="center">
   <img src="https://github.com/Bernardoresende2006/Bernardoresende2006/blob/main/db039626bfa2ecc53f0f6e7f335aef4c.gif" alt="Descrição" width="400" />
 </p>
 
