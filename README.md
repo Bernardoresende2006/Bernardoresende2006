@@ -1,2 +1,2 @@
-##Hi, I'm Bernardo
-##welcome to my profile
+# Hi, I'm Bernardo
+# welcome to my profile
