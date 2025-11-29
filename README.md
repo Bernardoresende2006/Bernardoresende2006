@@ -12,7 +12,7 @@
 
 ---
 
-### 🧠 Languages & Skills
+### 💻 Languages & Skills
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" width="70" />
 </p>
